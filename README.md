@@ -1,6 +1,7 @@
 # Rotten-Tomatoes-Sentiment-Analysis-LSTM
 
-# 🎬 Movie Review Sentiment Analysis Using LSTM
+
+#  Movie Review Sentiment Analysis Using LSTM
 
 ## Introduction
 
@@ -69,5 +70,7 @@ This project demonstrates the effectiveness of LSTM networks for sentiment analy
 ---
 
 **Author:** Hania Eman
+
 **Project Type:** Deep Learning & Natural Language Processing (NLP)
+
 **Framework:** TensorFlow / Keras
