@@ -1,8 +1,6 @@
 # Rotten-Tomatoes-Sentiment-Analysis-LSTM
 
 
-#  Movie Review Sentiment Analysis Using LSTM
-
 ## Introduction
 
 This project presents a Deep Learning-based approach for sentiment analysis of movie reviews using Long Short-Term Memory (LSTM) networks. The objective is to automatically classify movie reviews as **Positive** or **Negative** by leveraging Natural Language Processing (NLP) techniques and sequential neural networks.
